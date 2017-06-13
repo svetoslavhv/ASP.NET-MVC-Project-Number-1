@@ -93,15 +93,17 @@ Searching by empty inputs should return all the laptops.
 
 **Home page**
 
+![image1](https://user-images.githubusercontent.com/12698693/27096621-4b56ffbe-507a-11e7-9def-83b05de5900d.png)
 
 **Details Page**
 
-
+![image2](https://user-images.githubusercontent.com/12698693/27096626-54319fae-507a-11e7-830a-c8b582237486.png)
 
 **Details page for registered users**
 
+![image3](https://user-images.githubusercontent.com/12698693/27096637-57342906-507a-11e7-9244-214061371c10.png)
 
 **Laptop list page**
 
- 
+ ![image4](https://user-images.githubusercontent.com/12698693/27096638-5a96fc04-507a-11e7-9161-7e9d8d748ea9.png)
 
