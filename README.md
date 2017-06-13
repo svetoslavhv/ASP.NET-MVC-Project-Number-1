@@ -48,9 +48,9 @@ Design and implement the Laptop System as a server-side web application in ASP.N
 
 Search inputs are:
 
-- --By **model** with **Kendo Autocomplete** (server side filtering) 
-- --By **manufacturer** with **Kendo Dropdown **
-- --By **price** with **Kendo NumericTextBox **
+- By **model** with **Kendo Autocomplete** (server side filtering) 
+- By **manufacturer** with **Kendo Dropdown **
+- By **price** with **Kendo NumericTextBox **
 
 If some of the inputs are left empty or null, the search should not consider them. The name and model search is containing the substring in the laptop&#39;s name and model. The manufacturer search should search in all categories, if no category is selected.
 
