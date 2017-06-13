@@ -1,0 +1,16 @@
+C:\Users\asd\Desktop\LaptopSystem\LaptopSystem.Data\bin\Debug\LaptopSystem.Data.dll.config
+C:\Users\asd\Desktop\LaptopSystem\LaptopSystem.Data\bin\Debug\LaptopSystem.Data.dll
+C:\Users\asd\Desktop\LaptopSystem\LaptopSystem.Data\bin\Debug\LaptopSystem.Data.pdb
+C:\Users\asd\Desktop\LaptopSystem\LaptopSystem.Data\bin\Debug\EntityFramework.dll
+C:\Users\asd\Desktop\LaptopSystem\LaptopSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\asd\Desktop\LaptopSystem\LaptopSystem.Data\bin\Debug\LaptopSystem.Models.dll
+C:\Users\asd\Desktop\LaptopSystem\LaptopSystem.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\asd\Desktop\LaptopSystem\LaptopSystem.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\asd\Desktop\LaptopSystem\LaptopSystem.Data\bin\Debug\LaptopSystem.Models.pdb
+C:\Users\asd\Desktop\LaptopSystem\LaptopSystem.Data\bin\Debug\EntityFramework.xml
+C:\Users\asd\Desktop\LaptopSystem\LaptopSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\asd\Desktop\LaptopSystem\LaptopSystem.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\asd\Desktop\LaptopSystem\LaptopSystem.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\asd\Desktop\LaptopSystem\LaptopSystem.Data\obj\Debug\LaptopSystem.Data.csprojResolveAssemblyReference.cache
+C:\Users\asd\Desktop\LaptopSystem\LaptopSystem.Data\obj\Debug\LaptopSystem.Data.dll
+C:\Users\asd\Desktop\LaptopSystem\LaptopSystem.Data\obj\Debug\LaptopSystem.Data.pdb
