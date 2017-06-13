@@ -4,7 +4,7 @@
 
 You are assigned to design and implement a **Laptop Listing System** where visitors (without authentication) should be able to **view laptop manufacturers** and **laptops** , as well as to **register** and **login** in the system. Registered users (after login) should be able to **comment, vote** and **search** the laptops. **Administrators** should have full **CRUD** operations on **laptops** , **manufacturers** and **comments**. The system should be implemented as server-side Web application in ASP.NET MVC 5.
 
-####Problem 1. Laptop System Data Layer
+##### Problem 1. Laptop System Data Layer
 
 Design a simple data layer to hold **users** , **manufacturers** , **laptops, votes** and **comments**. Each **user** has **username, email** and **password**. The password should be stored in the DB encrypted (not as clear text). **Manufacturers** have **name** (unique and mandatory) and hold a **set of laptops**. Each **laptop** has mandatory **model, monitor** (in inches) **, hard disk** (in GB), **RAM** (in GB), **image** (as url string) and **price** (in Chinese Yuan o.O) and optionally **weight** (in kg), **additional parts** (camera, Bluetooth, etc. as string) and **description** (string). Laptops also have set of **votes** and set of **comments**. Each comment has **user, laptop** and **content**. Each vote has **user** and **laptop**. Fill some sample data in the DB to simplify any further testing.
 
@@ -12,7 +12,7 @@ Use the ASP.NET Identity system to keep the users and their encrypted passwords.
 
 Use **Entity Framework** as ORM engine and **MS SQL Server Local DB** as database storage engine. Your project should run after &quot;copy/paste&quot; deployment, without changing connection strings or other settings. You may use code first, model first or database first approach to access your data from Entity Framework.
 
-Problem 2. Laptop System ASP.NET MVC Application
+##### Problem 2. Laptop System ASP.NET MVC Application
 
 Design and implement the Laptop System as a server-side web application in ASP.NET MVC. You may use the following steps during your work:
 
